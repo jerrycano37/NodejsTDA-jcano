@@ -1,0 +1,50 @@
+body {
+  background: #fceabb;
+  background: -webkit-linear-gradient(to right, #f8b500, #fceabb);
+  background: linear-gradient(to right, #f8b500, #fceabb);
+  font-family: "Spicy Rice", cursive;
+}
+body > div > header > div {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+body > div:nth-child(3) {
+  text-align: center;
+  letter-spacing: 1px;
+  line-height: 1.5;
+  text-align: justify;
+}
+#infoempresa\20 p-50 > p {
+  margin: 20px;
+  color: black;
+}
+#section2 {
+  text-align: center;
+  letter-spacing: 1px;
+  line-height: 1.5;
+}
+
+#acercade {
+  background: #215f00;
+  background: -webkit-linear-gradient(to right, #e4e4d9, #215f00);
+  background: linear-gradient(to right, #e4e4d9, #215f00);
+}
+
+body > div > div > div > div {
+  margin-bottom: 80px;
+}
+
+body > div > div > div > div {
+  margin-top: 5px;
+}
+
+#bodyAcerca {
+  background: #348f50;
+  background: -webkit-linear-gradient(to right, #56b4d3, #348f50);
+  background: linear-gradient(to right, #56b4d3, #348f50);
+}
+
+#servicio1,
+#servicio2 {
+  margin-top: 40px;
+}
